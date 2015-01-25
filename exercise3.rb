@@ -5,4 +5,4 @@ puts "Hi #{name}!"
 puts "How old are you?"
 puts "Enter age"
 age = gets.chomp
-puts "You were born in  #{2015-age.to_i}!"
+puts "You were likely to be born in  #{2014-age.to_i}!"
